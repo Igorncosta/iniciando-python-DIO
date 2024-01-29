@@ -1,4 +1,11 @@
 AULA 29-01
 
-Esta aula foi sobre IDENTAÇAO, que eu entendi que seja para identificar os blocos pertencentes
-ao método.
+Resumo do que aprendi neste dia:
+
+1) Indentar e identificar blocos no python, no arquivo Identacao.py
+2) As estruturas condicionais, no arquivos estruturas_aninhadas.py, estruturas_condicionais.py, estruturas_estruturas_ternaria.py
+3) As estuturas de repetição, no arquivos repeticao_break.py, repeticao_for.py e repeticao_while.py
+4) Manipular strings em python com upper, lower, title entre outros no arquivo manitupulando_string.py
+5) Interpolaçao de variaveis e formatação de string, no arquivo string_2.py
+6) Fatiamento de strings, no arquivo string_3.py
+7) String multiplas linhas,  no arquivo string_4.py
